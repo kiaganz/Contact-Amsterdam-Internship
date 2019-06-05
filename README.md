@@ -17,5 +17,7 @@ Revolve, offset, arraypolar, array, join...
 # Day2
 LUSERCUTTER
 Engrave pic, no work on it, just uploaded it on illutrator connected with the machine.
-![../engrave]
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/engrave-day2.jpg?raw=true)
+
 
