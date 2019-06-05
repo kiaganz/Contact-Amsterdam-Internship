@@ -17,4 +17,9 @@ between the two colors, in practice eliminated some shade.
 
 The color image has given a clearly superior result and probably, also thanks to the difference nuances, it is possible to observe in the engrave, an exellent quality of the shadow and therefore of the depth.
 
+PLOTTER
+Stikers from the same picture work on illustrator.
+From picture to vectorialized image:
+Image trace -> Expand -> vector -> ungroup -> delate the part on the image that you don't want.
 
+![alt text](https://raw.githubusercontent.com/kiaganz/Contact-Amsterdam-Internship/255ec53833e0881eddee984e101eeb5d185c4cc6/imagine/stikers.jpg)
