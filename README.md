@@ -20,9 +20,9 @@ between the two colors, in practice eliminated some shade.
 
 The color image has given a clearly superior result and probably, also thanks to the difference nuances, it is possible to observe in the engrave, an exellent quality of the shadow and therefore of the depth.
 
-Setting for playwood:
+Setting for playwood 3mm:
 
-Engrave mode; Speed 60, Power 100, PPI 900
+Engrave mode; Speed 60, Power 100, PPI 900.
 
 ## PLOTTER (Expert Pro)
 
@@ -41,4 +41,13 @@ For a perfect sticker after cut, if you prefer, it is possible to take off the v
 
 Stamp from a vectorial image.
 
-Setting for 
+Setting for stamrobber 2mm:
+
+Stamp mode; Mirror and Inverse the image to engrave ouside the stamp.
+
+Speed 20, Power 100, PPI 900 -> for the engrave;
+
+Speed 1.2, Power 100, PPI 910 -> for the cutting;
+
+Stamp adjusting bar to choose th deeper of stamp.
+
