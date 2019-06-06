@@ -2,14 +2,14 @@
 such experiments and tests with different machines and programms. Contact makerspace
 
 # Day1 
-RHINO EXERCISE, TOOLS:
+## RHINO EXERCISE, TOOLS:
 
 Revolve, offset, arraypolar, array, join, bolean difference, loft, cap.
 
 -> Wine glass
 
 # Day2
-LUSERCUTTER
+## LUSERCUTTER (LaserPro)
 
 Engrave pic, no work on it, just uploaded it on illutrator connected with the machine.
 
@@ -20,7 +20,11 @@ between the two colors, in practice eliminated some shade.
 
 The color image has given a clearly superior result and probably, also thanks to the difference nuances, it is possible to observe in the engrave, an exellent quality of the shadow and therefore of the depth.
 
-PLOTTER
+Setting for playwood:
+
+Engrave mode; Speed 60, Power 100, PPI 900
+
+## PLOTTER (Expert Pro)
 
 Stikers from the same picture work on illustrator.
 
@@ -29,3 +33,12 @@ From picture to vectorialized image:
 Image trace -> Expand -> vector -> ungroup -> delate the part on the image that you don't want.
 
 ![alt text](https://raw.githubusercontent.com/kiaganz/Contact-Amsterdam-Internship/255ec53833e0881eddee984e101eeb5d185c4cc6/imagine/stikers.jpg)
+
+For a perfect sticker after cut, if you prefer, it is possible to take off the vinyl part that you don't need and cover the sticker with tranfer tape and lay and flatten it well with something plane and rigid like any kind of plastic card.
+
+# Day 3
+## LUSERCUTTER 
+
+Stamp from a vectorial image.
+
+Setting for 
