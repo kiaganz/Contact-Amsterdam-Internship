@@ -41,6 +41,10 @@ For a perfect sticker after cut, if you prefer, it is possible to take off the v
 
 Stamp from a vectorial image.
 
+The characters are full.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Stamp.jpg?raw=true)
+
 Setting for stamrobber 2mm:
 
 Stamp mode; Mirror and Inverse the image to engrave ouside the stamp.
