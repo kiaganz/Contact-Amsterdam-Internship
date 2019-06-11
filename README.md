@@ -68,7 +68,11 @@ Save the file as STL, open it in Cura and setting the values and save it on the 
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Stamp1.jpg?raw=true)
 
+### Exercise Rhino
 
+How to joint two curved pilylines.
+
+---VIDEO IM --
 
 
 
