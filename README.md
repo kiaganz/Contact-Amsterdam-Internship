@@ -58,9 +58,17 @@ Stamp adjusting bar to choose th deeper of stamp.
 
 # Week 2
 ## 3d PRINTER
+![alt text]
 
 Save the file as STL, open it in Cura and setting the values and save it on the SD card.
-![alt text]
+
+-> Stamp
+
+-> Buttom stamp
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Stamp1.jpg?raw=true)
+
+
 
 
 
