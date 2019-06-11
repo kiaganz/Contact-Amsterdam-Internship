@@ -55,3 +55,14 @@ Speed 1.2, Power 100, PPI 910 -> for the cutting;
 
 Stamp adjusting bar to choose th deeper of stamp.
 
+
+# Week 2
+## 3d PRINTER
+
+Save the file as STL, open it in Cura and setting the values and save it on the SD card.
+![alt text]
+
+
+
+
+
