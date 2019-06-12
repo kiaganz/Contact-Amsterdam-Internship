@@ -72,7 +72,9 @@ Save the file as STL, open it in Cura and setting the values and save it on the 
 
 How to joint two curved pilylines.
 
----VIDEO IM --
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Hjwhk-iQTCk)
+
+
 
 
 
