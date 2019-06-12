@@ -74,7 +74,7 @@ Save the file as STL, open it in Cura and setting the values and save it on the 
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/stamp2.jpg?raw=true)
 
-[![watch the video](https://youtu.be/SOEVgfEQ8Lg)
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/SOEVgfEQ8Lg)]
 
 
 ### Exercise Rhino
