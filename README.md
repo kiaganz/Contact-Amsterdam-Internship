@@ -91,7 +91,7 @@ How to joint two curved pilylines.
 
 ### WASTE METALLIC MATERIAL IN MAKERSAPCE
 
-[![watch the v(o](https://i.imgur.com/vKb2F1B.png)](https://desygner.com/design/?id=uWqQtiDkwLT&pvt={3C3C8BBC-02AD-BDAA-BF85-CE9ED8503E34})
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/final%20project/waste-metallic-material.jpg?raw=true)
 
 
 
