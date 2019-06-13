@@ -83,13 +83,17 @@ How to joint two curved pilylines.
 
 [![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Hjwhk-iQTCk)
 
-# FINAL RPJECT OF INTERNSHIP
 
 ### BRAINSTORMING OPEN DESIGN
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/stan.jpg?raw=true)
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/brainstorming.jpg?raw=true)
+
+
+
+
+# FINAL RPJECT OF INTERNSHIP
 
 ### WASTE METALLIC MATERIAL IN MAKERSAPCE
 
