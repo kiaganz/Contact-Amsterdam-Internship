@@ -87,7 +87,9 @@ How to joint two curved pilylines.
 
 ### BRAINSTORMING OPEN DESIGN
 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/stan.jpg?raw=true)
 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/brainstorming.jpg?raw=true)
 
 ### WASTE METALLIC MATERIAL IN MAKERSAPCE
 
