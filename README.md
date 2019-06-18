@@ -134,4 +134,4 @@ One of the four curves was in one dimension and it possible to see the desired e
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/exe2/exe.rhino2E.jpg?raw=true)
 
-
+[![watch the video](https://i.imgur.com/vKb2F1B.png)]([![watch the video](https://i.imgur.com/vKb2F1B.png)])
