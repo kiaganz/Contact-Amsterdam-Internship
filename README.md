@@ -116,10 +116,22 @@ Even printing it, many bridges of support would have had to be created, the work
 
 file -> exe2.rhino
 
-![alt text]
-![alt text]
-![alt text]
-![alt text]
-![alt text]
+The collar.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/exe2/exe.rhino2A.jpg?raw=true)
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/exe2/exe.rhino2B.jpg?raw=true)
+
+The arms and the holes for wire.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/exe2/exe.rhino2C.jpg?raw=true)
+
+When i understood that it was necessary to move the curve base the curves of the body, i modifided it but creating curves developed in threedimension.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/exe2/exe.rhino2D.jpg?raw=true)
+
+One of the four curves was in one dimension and it possible to see the desired effect.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/exe2/exe.rhino2E.jpg?raw=true)
 
 
