@@ -6,7 +6,7 @@ such experiments and tests with different machines and programms. Contact makers
 
 Revolve, offset, arraypolar, array, join, bolean difference, loft, cap.
 
--> Wine glass
+file -> Wine glass
 
 # Day2
 ## LUSERCUTTER (LaserPro)
@@ -62,9 +62,9 @@ Stamp adjusting bar to choose th deeper of stamp.
 
 Save the file as STL, open it in Cura and setting the values and save it on the SD card.
 
--> Stamp
+file -> Stamp
 
--> Buttom stamp
+file -> Buttom stamp
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Stamp1.jpg?raw=true)
 
@@ -105,8 +105,21 @@ Apart from this, plexiglass, cardboard, pallet, polystirene from packaging, elec
 
 # Week 3
 
+Trying to develope a new garment bye rhino, i had in mind to create a sort of cape with arms that extend along the body
+and connected one to the other bye wires and inserted into a collar. 
 
+What i found is that the curves, being developed in three dimension, cannot be extruded unless to create a base to which to develop the extrusion along the curve.
 
+Once i understood this and after a lot of changes and tests, the question that arose was: how to develop it?
 
+Even printing it, many bridges of support would have had to be created, the work is not impossible just becouse being an exercise and not being able to print such a long arms, i simply decided to change exercise considering this more than a failure, a test that taught something.
+
+file -> exe2.rhino
+
+![alt text]
+![alt text]
+![alt text]
+![alt text]
+![alt text]
 
 
