@@ -96,7 +96,14 @@ How to joint two curved pilylines.
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/final%20project/waste-metallic-material.jpg?raw=true)
 
+I also did a tour in the makerspace asking to any company which kind of materials they use and which waste they produce.
 
+Essentialy, it's easy to find a lot af wood that, for the moment, it seems not be a usefull material for my project.
+
+Apart from this, plexiglass, cardboard, pallet, polystirene from packaging, electronic board, bubble plastic.
+
+
+# Week 3
 
 
 
