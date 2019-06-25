@@ -171,6 +171,12 @@ They also used the palstic waste to develop product and the entire space is deve
 -> https://lamaconcept.nl/
 
 
+### Metal recycling service 
+in Amsterdam is Metallic Recycle Center
 
+-> http://www.metalrecyclingcentre.nl/
 
+and Kaptijn Metaal Recycling
+
+-> https://www.kapteijn-oudmetaal.nl/
 
