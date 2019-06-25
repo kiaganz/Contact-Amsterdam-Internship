@@ -135,3 +135,39 @@ One of the four curves was in one dimension and it possible to see the desired e
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/exe2/exe.rhino2E.jpg?raw=true)
 
 [![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/_EDt-MJaZIA)
+
+
+# week 4
+
+After a research of what kind of waste there may inside the makerspace, a research was carrid out on the type of waste that can be found in Amsterdam or in any case in Netherlands.
+
+Starting from idea of being able to use the bamboo as a very ductile natural elementthat is grown in Netherlands, research has also been carried out of the coltivation of bamboo.
+
+-> In the makerspace:
+
+A lot palywood or wood, some plasic or plexiglass, cardboard, foam and bubble plastic from packaging, electronic board, leather, yarn, paper.
+
+-> Country:
+
+### Zerowaste 
+project recycling different kind of waste and in collaboration with the shop in the neighborhood, the waste is paying with coins that allow discount at partecipate establishment.
+
+In addiction some artisans and artist are partner and sometimes they made product trhough waste recycling.
+
+For example
+
+* CULTURE COLLECTIVE BY NOMI -> http://www.culturecollectivebynomi.com/  
+
+* EKO PLAZA
+
+
+### Plastic Whale 
+is an orgnaizzation and their mission is to clean the canal for a cleaner sea.
+
+-> https://plasticwhale.com/
+
+They also used the palstic waste to develop product and the entire space is developped in collboration with LAMA, an interior design studio specialized in innovative materials.
+
+-> https://lamaconcept.nl/
+
+
