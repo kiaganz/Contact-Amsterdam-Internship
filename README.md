@@ -197,6 +197,9 @@ So I need to create other shapes with scale and place them in diffrent height le
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1A.jpg?raw=true)
 
+For a close loft I need also have point, the shape in scale and the point are placed in the center follow the development of the surface.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1B_punti.jpg?raw=true)
 
 
 
