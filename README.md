@@ -188,3 +188,16 @@ Good site with the explanation about properties and uses of many natural glue. (
 -> https://www.bricoliamo.com/bricolage/i-materiali/le-colle-a-base-naturale/
 
 
+## Pattern1
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1.jpg?raw=true)
+
+I started from close curves then the surfacebut if I extrude the surface from the point i will obtain pyramid.
+So I need to create other shapes with scale and place them in diffrent height level and then LOFT them.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1A.jpg?raw=true)
+
+
+
+
+
