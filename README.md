@@ -201,6 +201,7 @@ For a close loft I need also have point, the shape in scale and the point are pl
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1B_punti.jpg?raw=true)
 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1C_scale.jpg?raw=true)
 
 
 
