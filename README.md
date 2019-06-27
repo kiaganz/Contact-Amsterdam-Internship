@@ -180,3 +180,11 @@ and Kaptijn Metaal Recycling
 
 -> https://www.kapteijn-oudmetaal.nl/
 
+
+## Looking for adhesives
+
+Good site with the explanation about properties and uses of many natural glue. (in Italian)
+
+-> https://www.bricoliamo.com/bricolage/i-materiali/le-colle-a-base-naturale/
+
+
