@@ -188,6 +188,19 @@ Good site with the explanation about properties and uses of many natural glue. (
 -> https://www.bricoliamo.com/bricolage/i-materiali/le-colle-a-base-naturale/
 
 
+## Cellulose research
+
+A really interesting studied and tests with microbial cellulose.
+
+_Exploration of Bacterial Cellulose by Ellen Rykkelid 
+
+-> https://growingproducts.tumblr.com/
+
+_Experimental approach for packaging by Emma Sicher
+
+-> https://frompeeltopeel.tumblr.com/
+
+
 ## Pattern1
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1.jpg?raw=true)
