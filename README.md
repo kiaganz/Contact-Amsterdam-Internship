@@ -226,10 +226,31 @@ Any shape is collocated in differetn layers to work more easily and faster when 
 
 ## Test on Contact's metal waste
 
-At homei decided to make some test with acid natural element that is easier find in kitchen.
+At home i decided to make some tests with acid natural elements that is easier find in kitchen and also to see what happen or if something happens if i get a piece of dry bamboo in hot water.
 
 I want to see which kind of pattern is possible to obtain with the natural corrosion of th metal.
 
-_LIME
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/test-metallo.jpg?raw=true)
+
+
+ -> LIME
+ 
+After 1 hour the lime has already affected the metal surface, i pull it out and left it in the air to see any changes and next day was possible to see the rust-colored areas has been created.
+ 
+Another piece i placed upside down and after a few hours the blue was totally faded, even in this case, left to air all night long it showed , even less, halos of differetn colors from blue to orange.
+
+The ring left all night has lost its color where was in contact with the lemon juice which after the night is colored and sticky.
+
+It could be the effect of chemicals agents potentially used to protect the metal surface.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/test-LIME1.jpg?raw=true)
+
+
+ -> BAMBOO
+ 
+After almost a day soaked in water, initially very hot, it clearly show the sign of the watere level but the consistency has not changed at all. Still boiled water, day 2.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/test-bamboo1.jpg?raw=true)
+
 
 
