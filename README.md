@@ -179,13 +179,8 @@ They also used the palstic waste to develop product and the entire space is deve
 
 
 ### Metal recycling service 
-in Amsterdam is Metallic Recycle Center
 
--> http://www.metalrecyclingcentre.nl/
-
-and Kaptijn Metaal Recycling
-
--> https://www.kapteijn-oudmetaal.nl/
+in Amsterdam is [Metallic Recycle Center](../http://www.metalrecyclingcentre.nl/) and [Kaptijn Metaal Recycling](../https://www.kapteijn-oudmetaal.nl/).
 
 
 ## Looking for adhesives
@@ -199,13 +194,9 @@ Good site with the explanation about properties and uses of many natural glue. (
 
 A really interesting studied and tests with microbial cellulose.
 
-_Exploration of Bacterial Cellulose by Ellen Rykkelid 
+_[Exploration of Bacterial Cellulose by Ellen Rykkelid](../https://growingproducts.tumblr.com/)
 
--> https://growingproducts.tumblr.com/
-
-_Experimental approach for packaging by Emma Sicher
-
--> https://frompeeltopeel.tumblr.com/
+_[Experimental approach for packaging by Emma Sicher](../https://frompeeltopeel.tumblr.com/)
 
 
 ## Pattern1
@@ -223,5 +214,15 @@ For a close loft I need also have point, the shape in scale and the point are pl
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1C_scale.jpg?raw=true)
 
+
+# week 5
+
+## Test on Contact's metal waste
+
+At homei decided to make some test with acid natural element that is easier find in kitchen.
+
+I want to see which kind of pattern is possible to obtain with the natural corrosion of th metal.
+
+_LIME
 
 
