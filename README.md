@@ -214,6 +214,13 @@ For a close loft I need also have point, the shape in scale and the point are pl
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1C_scale.jpg?raw=true)
 
+Any shape is collocated in differetn layers to work more easily and faster when i'll move it to obtain a three-dimensional shape.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1D_ps.jpg?raw=true)
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1E_Ps.jpg?raw=true)
+
+
 
 # week 5
 
