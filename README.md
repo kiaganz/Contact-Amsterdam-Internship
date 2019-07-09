@@ -86,6 +86,13 @@ How to joint two curved pilylines.
 
 # FINAL RPJECT OF INTERNSHIP
 
+For the final project i would like to develop a composite material starting from metal materials and to do that i would like to use waste materials also organic.
+
+For [FABRICADEMY](../https://textile-academy.org/) final project i already did a small research about metals:
+
+-> https://class.textile-academy.org/2019/chiara.ganzerla/projects/final-project/#metal-reseach
+
+
 ### BRAINSTORMING OPEN DESIGN
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/stan.jpg?raw=true)
