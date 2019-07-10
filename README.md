@@ -1,17 +1,21 @@
 # Contact-Amsterdam-Internship June/August 2019
 such experiments and tests with different machines and programms. Contact makerspace
 
-# Day1 
-## RHINO EXERCISE, TOOLS:
+# RHINO EXERCISE, TOOLS:
 
-Revolve, offset, arraypolar, array, join, bolean difference, loft, cap.
+ -> *Revolve, offset, arraypolar, array, join, bolean difference, loft, cap.
 
 file -> Wine glass
 
-# Day2
-## LUSERCUTTER (LaserPro)
+ -> *How to joint two curved pilylines.
 
-Engrave pic, no work on it, just uploaded it on illutrator connected with the machine.
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Hjwhk-iQTCk)
+
+
+
+# LUSERCUTTER (LaserPro)
+
+ -> *Engrave pic, no work on it, just uploaded it on illutrator connected with the machine.
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/engrave-day2.jpg?raw=true)
 
@@ -24,22 +28,8 @@ Setting for playwood 3mm:
 
 Engrave mode; Speed 60, Power 100, PPI 900.
 
-## PLOTTER (Expert Pro)
 
-Stikers from the same picture work on illustrator.
-
-From picture to vectorialized image:
-
-Image trace -> Expand -> vector -> ungroup -> delate the part on the image that you don't want.
-
-![alt text](https://raw.githubusercontent.com/kiaganz/Contact-Amsterdam-Internship/255ec53833e0881eddee984e101eeb5d185c4cc6/imagine/stikers.jpg)
-
-For a perfect sticker after cut, if you prefer, it is possible to take off the vinyl part that you don't need and cover the sticker with tranfer tape and lay and flatten it well with something plane and rigid like any kind of plastic card.
-
-# Day 3
-## LUSERCUTTER 
-
-Stamp from a vectorial image.
+ -> *Stamp from a vectorial image.
 
 The characters are full.
 
@@ -56,9 +46,20 @@ Speed 1.2, Power 100, PPI 910 -> for the cutting;
 Stamp adjusting bar to choose th deeper of stamp.
 
 
-# Week 2
-## 3d PRINTER
-![alt text]
+# PLOTTER (Expert Pro)
+
+Stikers from the same picture work on illustrator.
+
+From picture to vectorialized image:
+
+Image trace -> Expand -> vector -> ungroup -> delate the part on the image that you don't want.
+
+![alt text](https://raw.githubusercontent.com/kiaganz/Contact-Amsterdam-Internship/255ec53833e0881eddee984e101eeb5d185c4cc6/imagine/stikers.jpg)
+
+For a perfect sticker after cut, if you prefer, it is possible to take off the vinyl part that you don't need and cover the sticker with tranfer tape and lay and flatten it well with something plane and rigid like any kind of plastic card.
+
+
+# 3d PRINTER
 
 Save the file as STL, open it in Cura and setting the values and save it on the SD card.
 
@@ -77,14 +78,8 @@ file -> Buttom stamp
 [![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/SOEVgfEQ8Lg)]
 
 
-### Exercise Rhino
 
-How to joint two curved pilylines.
-
-[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Hjwhk-iQTCk)
-
-
-# FINAL RPJECT OF INTERNSHIP
+# FINAL PROJECT FOR INTERNSHIP
 
 For the final project i would like to develop a composite material starting from metal materials and to do that i would like to use waste materials also organic.
 
@@ -93,13 +88,14 @@ For [FABRICADEMY](../https://textile-academy.org/) final project i already did a
 -> https://class.textile-academy.org/2019/chiara.ganzerla/projects/final-project/#metal-reseach
 
 
-### BRAINSTORMING OPEN DESIGN
+## BRAINSTORMING OPEN DESIGN
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/stan.jpg?raw=true)
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/brainstorming.jpg?raw=true)
 
-### WASTE METALLIC MATERIAL IN MAKERSAPCE
+
+## WASTE METALLIC MATERIAL IN MAKERSAPCE
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/final%20project/waste-metallic-material.jpg?raw=true)
 
@@ -110,7 +106,8 @@ Essentialy, it's easy to find a lot af wood that, for the moment, it seems not b
 Apart from this, plexiglass, cardboard, pallet, polystirene from packaging, electronic board, bubble plastic.
 
 
-# Week 3
+----------------------------------------------------------------------------------------------------------------------------------------
+## EXPERIMENT WITH RHINO
 
 Trying to develope a new garment bye rhino, i had in mind to create a sort of cape with arms that extend along the body
 and connected one to the other bye wires and inserted into a collar. 
@@ -143,8 +140,10 @@ One of the four curves was in one dimension and it possible to see the desired e
 
 [![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/_EDt-MJaZIA)
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-# week 4
+
+## DIFFERENT KIND OF WASTE IN AMSTERDAM
 
 After a research of what kind of waste there may inside the makerspace, a research was carrid out on the type of waste that can be found in Amsterdam or in any case in Netherlands.
 
@@ -183,7 +182,7 @@ They also used the palstic waste to develop product and the entire space is deve
 in Amsterdam is [Metallic Recycle Center](../http://www.metalrecyclingcentre.nl/) and [Kaptijn Metaal Recycling](../https://www.kapteijn-oudmetaal.nl/).
 
 
-## Looking for adhesives
+### Looking for adhesives
 
 Good site with the explanation about properties and uses of many natural glue. (in Italian)
 
@@ -220,9 +219,22 @@ Any shape is collocated in differetn layers to work more easily and faster when 
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1E_Ps.jpg?raw=true)
 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1F.jpg?raw=true>)
 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1F_ps.jpg?raw=true)
 
-# week 5
+The milling machine pierces from top to bottom and moving in various direction on the plane.
+
+It is not possible with this technology obtain the belly desired on the shapes, unless cut at he heigh of the belly and get two pieces to join later.
+
+Having in mind to obtain in part, even its negative, it would thus obtain four part to do in different times and have to unite.
+
+The alternatives are: 
+
+_ Modifing the pattern eliminated the belly and make the two molds with the milling machine.
+
+_ Change the technology to be adopted considering the 3d printer or lasercutter with the engravings but the thickness of the pattern is exessive.
+
 
 ## Test on Contact's metal waste
 
@@ -244,6 +256,8 @@ The ring left all night has lost its color where was in contact with the lemon j
 It could be the effect of chemicals agents potentially used to protect the metal surface.
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/test-LIME1.jpg?raw=true)
+
+
 
 
  -> BAMBOO
