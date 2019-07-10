@@ -223,11 +223,17 @@ Any shape is collocated in differetn layers to work more easily and faster when 
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1F_ps.jpg?raw=true)
 
+### Result:
+
 The milling machine pierces from top to bottom and moving in various direction on the plane.
 
 It is not possible with this technology obtain the belly desired on the shapes, unless cut at he heigh of the belly and get two pieces to join later.
 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1_problem.jpg?raw=true)
+
 Having in mind to obtain in part, even its negative, it would thus obtain four part to do in different times and have to unite.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1_considerazioni.jpg?raw=true)
 
 The alternatives are: 
 
