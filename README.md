@@ -242,7 +242,7 @@ At home i decided to make some tests with acid natural elements that is easier f
 
 I want to see which kind of pattern is possible to obtain with the natural corrosion of th metal.
 
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/test-metallo.jpg?raw=true)
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-metallo.jpg?raw=true)
 
 
  -> LIME
@@ -255,7 +255,7 @@ The ring left all night has lost its color where was in contact with the lemon j
 
 It could be the effect of chemicals agents potentially used to protect the metal surface.
 
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/test-LIME1.jpg?raw=true)
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-LIME1.jpg?raw=true)
 
 
 
@@ -264,7 +264,7 @@ It could be the effect of chemicals agents potentially used to protect the metal
  
 After almost a day soaked in water, initially very hot, it clearly show the sign of the watere level but the consistency has not changed at all. Still boiled water, day 2.
 
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/test-bamboo1.jpg?raw=true)
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-bamboo1.jpg?raw=true)
 
 
 
