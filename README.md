@@ -290,6 +290,16 @@ It could be the effect of chemicals agents potentially used to protect the metal
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-LIME1.jpg?raw=true)
 
 
+ -> SALT
+ 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/Metal_Salt.jpg?raw=true)
+
+
+ -> VINEGAR
+ 
+As for the lime the vinegar immediatly corroded the surface.
+ 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/Metal_Vinegar.jpg?raw=true)
 
 
  -> BAMBOO
