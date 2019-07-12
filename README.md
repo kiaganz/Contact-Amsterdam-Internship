@@ -242,6 +242,20 @@ _ Modifing the pattern eliminated the belly and make the two molds with the mill
 _ Change the technology to be adopted considering the 3d printer or lasercutter with the engravings but the thickness of the pattern is exessive.
 
 
+### Test with 3d printer
+
+I create i new file with some pieces from the smaller to bigger one and developed a piece to printer.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/3d%20printer/pattern1G_ps.jpg?raw=true)
+
+I wanted to gave to the shapes a thicknes, i start scale and join togheter the pieces but not only the process was long at the end i discover that was not necessary.
+
+I needed to create a plane on where printer the shapes and working on it I found a simple way to obtain a full shape and the plane immediatly.
+
+![alt text](
+
+
+
 ## Test on Contact's metal waste
 
 At home i decided to make some tests with acid natural elements that is easier find in kitchen and also to see what happen or if something happens if i get a piece of dry bamboo in hot water.
