@@ -252,7 +252,19 @@ I wanted to gave to the shapes a thicknes, i start scale and join togheter the p
 
 I needed to create a plane on where printer the shapes and working on it I found a simple way to obtain a full shape and the plane immediatly.
 
-![alt text](
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/3d%20printer/patter1_TESTprint.jpg?raw=true)
+
+_Infill 40; _Layer heigh 0,16. _Time 1h 17'.
+
+From this test is clear that the smaller pieces must be eliminated, and the geometries must be lowered.
+
+Even at the base of the negative part i have to leave more margin.
+
+In general i don't consider this technology very useful due to the fact that the working times and it woul need at least four times at the maximum size of the printer plate.
+
+The test is 3,5 cm square in size and the printer plate is 20 cm per 24 cm.
+
+
 
 
 
