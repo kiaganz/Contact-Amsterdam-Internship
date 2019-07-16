@@ -275,6 +275,25 @@ In general i don't consider this technology very useful due to the fact that the
 The test is 3,5 cm square in size and the printer plate is 20 cm per 24 cm.
 
 
+### Test with Milling machine
+
+I made another file cutting away the part under the belly, for the reasons above descripted.
+
+In this way I also slightly lowered the geometries in general and also worked on the particularly large shape, as not to have an exaggerated height.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/pattern1G_testCNC.jpg?raw=true)
+
+During the process we met some difficulties.
+
+Is important to open the file in STL model, and setting the milling machine fist for "roughing" and then for "finishing" to obtain a good resolution ofthe mold.
+
+The material choosen is foam, and after the first phase, i lost the starting point and restart the machine for the finishing.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/mold1_CNCtest1.jpg?raw=true)
+
+I want to make another test considering that is necessary for me to have a border around the mold and trying to create a top which it could be possible make the stamp with my composite material.
+
+
 
 
 
