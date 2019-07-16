@@ -88,11 +88,21 @@ For [FABRICADEMY](../https://textile-academy.org/) final project i already did a
 -> https://class.textile-academy.org/2019/chiara.ganzerla/projects/final-project/#metal-reseach
 
 
+## INSPIRATION
+
+![alt text]()
+
+
 ## BRAINSTORMING OPEN DESIGN
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/stan.jpg?raw=true)
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/brainstorming.jpg?raw=true)
+
+
+## Mycelium WORKSHOP
+
+![alt text]()
 
 
 ## WASTE METALLIC MATERIAL IN MAKERSAPCE
