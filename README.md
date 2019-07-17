@@ -315,12 +315,13 @@ Below are the steps to follow if you are unable to work with the milling.
     - Navigate C: system32 spool PRINTERS and delate any fie in the fold but not the fold;
     - Return to Service Window and click start in Print Spooler.
 
-After setting the roughing and finishing phases, click on the icon at the bottom left ..., make sure the lid is well positioned, place the tip at the desired height, and download the file.
+After setting the roughing and finishing phases, click on the icon at the bottom left (Create tool Path), make sure the lid is well positioned, place the tip at the desired height, and download the file with the icon at the bottom right (Cut).
 
 The milling starts and follows the installation phases only if the file has been selected with the cursor. If one of the two processing phases has been selected, the computer will load and communicate that particular phase and not the entire process selected for the processing file.
 
 
-![alt text](
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/mold1_CNCtest2.jpg?raw=true)
+
 
 
 
