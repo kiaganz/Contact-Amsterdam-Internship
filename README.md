@@ -275,7 +275,7 @@ In general i don't consider this technology very useful due to the fact that the
 The test is 3,5 cm square in size and the printer plate is 20 cm per 24 cm.
 
 
-### Test with Milling machine
+### Test with Milling machine (Roland MODELA)
 
 I made another file cutting away the part under the belly, for the reasons above descripted.
 
@@ -287,13 +287,40 @@ During the process we met some difficulties.
 
 Is important to open the file in STL model, and setting the milling machine fist for "roughing" and then for "finishing" to obtain a good resolution ofthe mold.
 
-The material choosen is foam, and after the first phase, i lost the starting point and restart the machine for the finishing.
+The material choosen is foam, and after the first phase, i lost the starting point and restart the machine for the finishing but wasn't the same as before.
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/mold1_CNCtest1.jpg?raw=true)
 
 I want to make another test considering that is necessary for me to have a border around the mold and trying to create a top which it could be possible make the stamp with my composite material.
 
+The creted bottom is madein same way but with a border 3 mm higher to made the minimum thickness for my material.
 
+At the beginnning i thought was neccesary made an offset of the geometries. For the "positive" one i make it  bigger and for the "negative" one i make it smaller, but especially for these last one, the shape they where distorted.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/pattern1G_topCNC.jpg?raw=true)
+
+the next test went very well.
+
+The small Roland MODELA also capable of scanning, needs some foresight but then IT workS well.
+
+The two work phases mentioned above, once set but before loading them, is necessary to check that there are no other files or stages of outgoing work.
+
+Below are the steps to follow if you are unable to work with the milling.
+
+ 
+ -> CLEAR THE PRINT QUEUE
+
+    - Window key + R, serice.msc enter;
+    - Print Spooler and click the STOP icon;
+    - Navigate C: system32 spool PRINTERS and delate any fie in the fold but not the fold;
+    - Return to Service Window and click start in Print Spooler.
+
+After setting the roughing and finishing phases, click on the icon at the bottom left ..., make sure the lid is well positioned, place the tip at the desired height, and download the file.
+
+The milling starts and follows the installation phases only if the file has been selected with the cursor. If one of the two processing phases has been selected, the computer will load and communicate that particular phase and not the entire process selected for the processing file.
+
+
+![alt text](
 
 
 
