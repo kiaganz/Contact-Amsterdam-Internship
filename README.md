@@ -210,9 +210,10 @@ _[Experimental approach for packaging by Emma Sicher](../https://frompeeltopeel.
 
 ## Mycelium workshop, grow your fungi -Mediamatic, Amsterdam-
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7fSwl6mlcKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=7fSwl6mlcKU)]
+
+
 
 ## Pattern1
 
