@@ -208,6 +208,12 @@ _[Exploration of Bacterial Cellulose by Ellen Rykkelid](../https://growingproduc
 _[Experimental approach for packaging by Emma Sicher](../https://frompeeltopeel.tumblr.com/)
 
 
+## Mycelium workshop, grow your fungi -Mediamatic, Amsterdam-
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fSwl6mlcKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=7fSwl6mlcKU)]
+
 ## Pattern1
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1.jpg?raw=true)
