@@ -242,7 +242,7 @@ Any shape is collocated in differetn layers to work more easily and faster when 
 
 
 
-[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.instagram.com/p/B0DWrQEIsYV/)
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=teUM_UyCnbg&t=24s)
 
 
 
