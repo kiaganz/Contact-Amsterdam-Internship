@@ -210,9 +210,18 @@ _[Experimental approach for packaging by Emma Sicher](../https://frompeeltopeel.
 
 ## Mycelium workshop, grow your fungi -Mediamatic, Amsterdam-
 
+Mycelium is the vegetative part of a fungus or fungus-like bacterial colony, consisting of a mass of branching, thread-like hyphae. The mass of hyphae is sometimes called shiro, especially within the fairy ring fungi. Fungal colonies composed of mycelium are found in and on soil and many other substrates. A typical single spore germinates into a homokaryotic mycelium, which cannot reproduce sexually; when two compatible homokaryotic mycelia join and form a dikaryotic mycelium, that mycelium may form fruiting bodies such as mushrooms
+
+During the workshop we used a sterilized straw where we put mushroom seeds and inserted in a special plastic bag that has also a specific insert that lets the air breath.
+
 
 [![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=7fSwl6mlcKU)]
 
+I let the bag in shower room, that's humid and dark.
+
+In less then 1 week i had a lot of mycelium, but i asked to a frends, Stéphanie Santos (https://www.facebook.com/stephanie.santos.93), who made diffrent project and dress with mycelium.
+
+The new phases:
 
 
 ## Pattern1
