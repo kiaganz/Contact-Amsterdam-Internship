@@ -240,6 +240,12 @@ Any shape is collocated in differetn layers to work more easily and faster when 
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1F_ps.jpg?raw=true)
 
+
+
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.instagram.com/p/B0DWrQEIsYV/)
+
+
+
 ### Result:
 
 The milling machine pierces from top to bottom and moving in various direction on the plane.
@@ -281,6 +287,8 @@ In general i don't consider this technology very useful due to the fact that the
 
 The test is 3,5 cm square in size and the printer plate is 20 cm per 24 cm.
 
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.instagram.com/p/B0DVEE4o1PE/)]
+
 
 ### Test with Milling machine (Roland MODELA)
 
@@ -313,6 +321,10 @@ The small Roland MODELA also capable of scanning, needs some foresight but then 
 The two work phases mentioned above, once set but before loading them, is necessary to check that there are no other files or stages of outgoing work.
 
 Below are the steps to follow if you are unable to work with the milling.
+
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.instagram.com/p/B0DWrQEIsYV/)]
+
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=R72kNkguZJ0)]
 
  
  -> CLEAR THE PRINT QUEUE
