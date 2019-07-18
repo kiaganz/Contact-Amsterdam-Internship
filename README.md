@@ -221,7 +221,20 @@ I let the bag in shower room, that's humid and dark.
 
 In less then 1 week i had a lot of mycelium, but i asked to a frends, Stéphanie Santos (https://www.facebook.com/stephanie.santos.93), who made diffrent project and dress with mycelium.
 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/straw.jpg?raw=true)
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/seeds.jpg?raw=true)
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/bag.jpg?raw=true)
+
+
 The new phases:
+
+.
+.
+.
+.
+
 
 
 ## Pattern1
