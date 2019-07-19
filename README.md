@@ -100,11 +100,6 @@ For [FABRICADEMY](../https://textile-academy.org/) final project i already did a
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/brainstorming.jpg?raw=true)
 
 
-## Mycelium WORKSHOP
-
-![alt text]()
-
-
 ## WASTE METALLIC MATERIAL IN MAKERSAPCE
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/final%20project/waste-metallic-material.jpg?raw=true)
@@ -114,6 +109,49 @@ I also did a tour in the makerspace asking to any company which kind of material
 Essentialy, it's easy to find a lot af wood that, for the moment, it seems not be a usefull material for my project.
 
 Apart from this, plexiglass, cardboard, pallet, polystirene from packaging, electronic board, bubble plastic.
+
+
+## Test on Contact's metal waste
+
+At home i decided to make some tests with acid natural elements that is easier find in kitchen and also to see what happen or if something happens if i get a piece of dry bamboo in hot water.
+
+I want to see which kind of pattern is possible to obtain with the natural corrosion of th metal.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-metallo.jpg?raw=true)
+
+
+ -> LIME
+ 
+After 1 hour the lime has already affected the metal surface, i pull it out and left it in the air to see any changes and next day was possible to see the rust-colored areas has been created.
+ 
+Another piece i placed upside down and after a few hours the blue was totally faded, even in this case, left to air all night long it showed , even less, halos of differetn colors from blue to orange.
+
+The ring left all night has lost its color where was in contact with the lemon juice which after the night is colored and sticky.
+
+It could be the effect of chemicals agents potentially used to protect the metal surface.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-LIME1.jpg?raw=true)
+
+
+ -> SALT
+ 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/Metal_Salt.jpg?raw=true)
+
+
+ -> VINEGAR
+ 
+As for the lime the vinegar immediatly corroded the surface.
+ 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/Metal_Vinegar.jpg?raw=true)
+
+
+ -> BAMBOO
+ 
+After almost a day soaked in water, initially very hot, it clearly show the sign of the watere level but the consistency has not changed at all. Still boiled water, day 2.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-bamboo1.jpg?raw=true)
+
+I understand that with dry bamboo is not possible to work on the pulp, there is no pulp, is exactly as a dry wood.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -207,7 +245,7 @@ _[Exploration of Bacterial Cellulose by Ellen Rykkelid](../https://growingproduc
 
 _[Experimental approach for packaging by Emma Sicher](../https://frompeeltopeel.tumblr.com/)
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Mycelium workshop, grow your fungi -Mediamatic, Amsterdam-
 
 Mycelium is the vegetative part of a fungus or fungus-like bacterial colony, consisting of a mass of branching, thread-like hyphae. The mass of hyphae is sometimes called shiro, especially within the fairy ring fungi. Fungal colonies composed of mycelium are found in and on soil and many other substrates. A typical single spore germinates into a homokaryotic mycelium, which cannot reproduce sexually; when two compatible homokaryotic mycelia join and form a dikaryotic mycelium, that mycelium may form fruiting bodies such as mushrooms
@@ -234,10 +272,10 @@ The new phases:
 .
 .
 .
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-## Pattern1
+## Pattern developed
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/pattern1.jpg?raw=true)
 
@@ -363,48 +401,55 @@ The milling starts and follows the installation phases only if the file has been
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/mold1_CNCtest2.jpg?raw=true)
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+The result obtained satisfied me, and next step is make three other mold on which grown the mycelium.
+
+I contacted to Stéphanie Santos (https://www.facebook.com/stephanie.santos.93), who made some cloths and tests with mycelium.
+
+My bag is good to make a really big piece of mycelium and now, following Stephanie' advises, i have two option.
+
+I can use my mycelium in small pieces and put it in my mold to see how thick my material can become.
+
+I also can inoculate some nutrient agar into some pieces of mycelium and put it in Petri dishes with nutrient agar and then use the mycelium grown in this disks in a much thinner form, and place this material on my mold still cover with nutritive agar and leave it to grow along the suface.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/mold1_noBelly.jpg?raw=true)
+
+Once the grown is sufficient for me, it is necessary to cook the material with hot air to kill the mycelium bacteria.
+
+Now  i want to make three other mold with no top to put over, and i decided to use the whole dimension of the Roland MODELA milling machine.
+
+1 mold with mycelium mixed with metal's powder;
+
+1 mold with mycleium and copper or iron wires;
+
+1 mold with mycelium and metal disks (Contact makerspace, Amsterdam).
 
 
+### Useful link
 
-## Test on Contact's metal waste
+_It is possible to find different kind of Petri dishes on-line, but on Amazon i found Petri dishes ready with nutrient substances for different kind of bio tests, and those seems good to grow fungi, mushrooms ...
 
-At home i decided to make some tests with acid natural elements that is easier find in kitchen and also to see what happen or if something happens if i get a piece of dry bamboo in hot water.
-
-I want to see which kind of pattern is possible to obtain with the natural corrosion of th metal.
-
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-metallo.jpg?raw=true)
-
-
- -> LIME
+ -> https://www.amazon.com/gp/product/B07JNM113D/ref=ox_sc_act_title_1?smid=A2YOHKFRSDTO7W&psc=1
  
-After 1 hour the lime has already affected the metal surface, i pull it out and left it in the air to see any changes and next day was possible to see the rust-colored areas has been created.
+_Nutrient Agar
+
+ -> https://www.amazon.com/gp/product/B0796YYVWM/ref=ox_sc_act_title_2?smid=ACTB8CBED46SR&psc=1
  
-Another piece i placed upside down and after a few hours the blue was totally faded, even in this case, left to air all night long it showed , even less, halos of differetn colors from blue to orange.
-
-The ring left all night has lost its color where was in contact with the lemon juice which after the night is colored and sticky.
-
-It could be the effect of chemicals agents potentially used to protect the metal surface.
-
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-LIME1.jpg?raw=true)
-
-
- -> SALT
  
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/Metal_Salt.jpg?raw=true)
-
-
- -> VINEGAR
  
-As for the lime the vinegar immediatly corroded the surface.
  
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/Metal_Vinegar.jpg?raw=true)
-
-
- -> BAMBOO
  
-After almost a day soaked in water, initially very hot, it clearly show the sign of the watere level but the consistency has not changed at all. Still boiled water, day 2.
+ Material | Shop   | Quantity | Price
+ ----------
+ ________ |_______ |_________ |
+ 
 
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/test-bamboo1.jpg?raw=true)
+
+
+
+
+
 
 
 
