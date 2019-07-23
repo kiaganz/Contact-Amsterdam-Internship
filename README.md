@@ -448,29 +448,11 @@ Nutrient  Agar      | Amazon (Innovating Science Mixed Nutrient Agar, 200ml)    
 
 Gallium             | Ali express                                                            |          |  € 35,00|
 
-`
 
-const BadgeButton = () => (
-	<Example>
-		<ButtonGrid>
-			<Button item="A">Some Button</Button>
-			<Badge item="B">1</Badge>
-		</ButtonGrid>
-	</Example>
-)
 
-const SpacerGrid = styled(grid`
-	     25% 50% 25%
-	25%  ..  ..  ..
-	50%  ..  A   ..
-	25%  ..  ..  ..
-`)`
-	height: 300px;
-	width: 300px;
-	border: 1px solid black;
-`
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Total paied with shipping is:
 
 Amazon € 35,00 Gallium
