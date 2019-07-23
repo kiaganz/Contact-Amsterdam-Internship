@@ -439,11 +439,24 @@ _Nutrient Agar
  
  
  
- 
- Material | Shop   | Quantity | Price
+ Material           | Shop                                                                   | Quantity |  Price  |
  ----------
- ________ |_______ |_________ |
- 
+Petri dishes        | Amazon (Malt Extract Agar Plates; Great for Mushrooms, Molds, Fungus   |    Pz. 10|  € 30,00|
+with nutrient agar  |               - 10 Sterile Prepoured MEA Petri Dishes.)
+
+Nutrient  Agar      | Amazon (Innovating Science Mixed Nutrient Agar, 200ml)                 |      Q.S.|  € 20,00|
+
+Gallium             | Ali express                                                            |          |  € 35,00|
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+### Total paied with shipping is:
+
+Amazon € 35,00 Gallium
+Amazon € 71,00 Petri + agar
+
 
 
 
