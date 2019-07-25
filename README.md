@@ -403,13 +403,13 @@ The milling starts and follows the installation phases only if the file has been
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-The result obtained satisfied me, and next step is make three other mold on which grown the mycelium.
+Now i need to understand in which way i can obtain the thinner material with the mycelium and my mold.
 
-But i need to isolate the surface of the foam and seems the Plastidip the better solution but at the makerspace i have a universal primer.
+The result obtained whit the first one satisfied me but i needed to isolate the surface of the foam and seemed the Plastidip was the better solution but at the makerspace i had a universal primer.
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/pattern1H.jpg?raw=true)
 
-the result doesn't satisfy me, but for the moment i try with it.
+the result doesn't satisfy me, but for the moment i wanted to try with it.
 
 I contacted to Stéphanie Santos (https://www.facebook.com/stephanie.santos.93), who made some cloths and tests with mycelium.
 
@@ -419,15 +419,15 @@ I can use my mycelium in small pieces and put it in my mold to see how thick my 
 
 I also can inoculate some nutrient agar into some pieces of mycelium and put it in Petri dishes with nutrient agar and then use the mycelium grown in this disks in a much thinner form, and place this material on my mold still cover with nutritive agar and leave it to grow along the suface.
 
-![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/mold1_noBelly.jpg?raw=true)
-
 Once the grown is sufficient for me, it is necessary to cook the material with hot air to kill the mycelium bacteria.
 
-First test mold is the small one with th bottom in which i want to put some mycelium pieces.
+I decided to use the first test with the top, putting some mycelium pieces in the middle and made other three mold to create my composite material with mycelium following the indications of Stéphanie.
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/pattern1I.jpg?raw=true)
 
-Now  i want to make three other mold with no top to put over, and i decided to use the whole dimension of the Roland MODELA milling machine.
+The time for a full size piece of foam for the Roland MODELA milling machine took a lot time, more than 10 hours to make a mold with a tip of 3 mm.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/mold1_noBelly.jpg?raw=true)
 
 1 mold with mycelium mixed with metal's powder;
 
