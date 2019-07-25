@@ -405,6 +405,12 @@ The milling starts and follows the installation phases only if the file has been
 
 The result obtained satisfied me, and next step is make three other mold on which grown the mycelium.
 
+But i need to isolate the surface of the foam and seems the Plastidip the better solution but at the makerspace i have a universal primer.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/pattern1H.jpg?raw=true)
+
+the result doesn't satisfy me, but for the moment i try with it.
+
 I contacted to Stéphanie Santos (https://www.facebook.com/stephanie.santos.93), who made some cloths and tests with mycelium.
 
 My bag is good to make a really big piece of mycelium and now, following Stephanie' advises, i have two option.
@@ -416,6 +422,10 @@ I also can inoculate some nutrient agar into some pieces of mycelium and put it 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/pattern1/CNC/mold1_noBelly.jpg?raw=true)
 
 Once the grown is sufficient for me, it is necessary to cook the material with hot air to kill the mycelium bacteria.
+
+First test mold is the small one with th bottom in which i want to put some mycelium pieces.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/pattern1I.jpg?raw=true)
 
 Now  i want to make three other mold with no top to put over, and i decided to use the whole dimension of the Roland MODELA milling machine.
 
