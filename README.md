@@ -426,7 +426,7 @@ Once the grown is sufficient for me, it is necessary to cook the material with h
 
 I decided to use the first test with the top, putting some mycelium pieces in the middle and made other three mold to create my composite material with mycelium following the indications of Stéphanie.
 
-[![watch the video]](https://www.youtube.com/watch?v=oVo6sMpjaj4)
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=oVo6sMpjaj4)
 
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/pattern1I.jpg?raw=true)
 
