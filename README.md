@@ -1,7 +1,7 @@
 # Amsterdam project - Safia Malvarosa
 (Space and rental machine at Contact makerspace)
 
-such experiments and tests with different machines and programms. Contact makerspace
+such experiments and tests with different machines and programms.
 
 # RHINO EXERCISE, TOOLS:
 
