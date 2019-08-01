@@ -270,8 +270,9 @@ In less then 1 week i had a lot of mycelium, but i asked to a frends, Stéphanie
 
 The new phases:
 
-.
-.
+. Petri dishesi in  fridge for long term, I waited for one week.
+
+. With desenfected gloves i put the mycelium that i previusly separate from the rest in the bag.
 .
 .
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -467,7 +468,7 @@ Gallium             | Ali express                                               
 ### Total paied with shipping is:
 
 Amazon € 35,00 Gallium
-Amazon € 71,00 Petri + agar
+Amazon € 71,00 MEA Petri dishes + Nutrient agar
 
 
 
