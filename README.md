@@ -283,11 +283,17 @@ In less then 1 week i had a lot of mycelium, but i asked to a frends, Stéphanie
 
 The new phases:
 
-. Petri dishesi in  fridge for long term, I waited for one week.
+![alt text](
 
-. With desenfected gloves i put the mycelium that i previusly separate from the rest in the bag.
-.
-.
+. Petri dishesi in fridge for long term, I waited for one week.
+
+. With desenfected gloves i put the mycelium that i previusly separate from the rest in the bag in two dishes, in other two i put some pieces from the new mycelium groewd in the bag, even if it was open, and in the fifth dish i put one piece each type of mycelium.
+
+. I put the five dishes upsidedown in a dark ambient, the ideal temperature is around 25/30 celsius degrees, but i don't have any thermometer and i hope to have around 20 at home.
+
+To create a warmer atmosphere sometimes i put hot air in the bathroom with my hair dryer but not directly on the dishes.
+
+-----> VIDEO
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
