@@ -283,11 +283,15 @@ In less then 1 week i had a lot of mycelium, but i asked to a frends, Stéphanie
 
 The new phases:
 
-![alt text](
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/PETRI-dishes.jpg?raw=true)
 
 . Petri dishesi in fridge for long term, I waited for one week.
 
 . With desenfected gloves i put the mycelium that i previusly separate from the rest in the bag in two dishes, in other two i put some pieces from the new mycelium groewd in the bag, even if it was open, and in the fifth dish i put one piece each type of mycelium.
+
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/mycelium.jpg?raw=true)
+
 
 . I put the five dishes upsidedown in a dark ambient, the ideal temperature is around 25/30 celsius degrees, but i don't have any thermometer and i hope to have around 20 at home.
 
