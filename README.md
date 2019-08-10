@@ -156,6 +156,19 @@ After almost a day soaked in water, initially very hot, it clearly show the sign
 I understand that with dry bamboo is not possible to work on the pulp, there is no pulp, is exactly as a dry wood.
 
 
+RESULT:
+
+I let the salt work for weeks, it seemed to have no effect at the beginning and instead the corrosion has happened and I really like it.
+
+The rust created from vinegar and salt stains, particularly that obtained with vinegar.
+
+The lemon has bleached the surface, the effect is still very beautiful but among all the result obtained with salt is my favorite.
+
+Anyway, I will use all the tests while I try to grow the mycelium.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/metallo/metallo.jpg?raw=true)
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## EXPERIMENT WITH RHINO
 
