@@ -283,6 +283,8 @@ In less then 1 week i had a lot of mycelium, but i asked to a frends, Stéphanie
 
 The new phases:
 
+(According with the Stéphanie Santos, @stephaniesantosdc, instruction)
+
 ![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/PETRI-dishes.jpg?raw=true)
 
 . Petri dishesi in fridge for long term, I waited for one week.
@@ -298,6 +300,12 @@ The new phases:
 To create a warmer atmosphere sometimes i put hot air in the bathroom with my hair dryer but not directly on the dishes.
 
 -----> VIDEO
+
+Here the instruction for the Petri dishes.
+
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/instruction.jpg?raw=true)
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
