@@ -299,6 +299,14 @@ The new phases:
 
 To create a warmer atmosphere sometimes i put hot air in the bathroom with my hair dryer but not directly on the dishes.
 
+![alt text](https://github.com/kiaganz/Contact-Amsterdam-Internship/blob/master/imagine/Mycelium/micelio-test1.jpg)
+
+The first test didn't work, i reapet the process disinfected everything with alchool.
+
+But even the second test didn't work this time nothing happend.
+
+I attended a lesson to the biological laboratory at the Waag makerspace where was possible for me to understand ................
+
 -----> VIDEO
 
 Here the instruction for the Petri dishes.
