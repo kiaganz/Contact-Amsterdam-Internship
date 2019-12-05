@@ -303,9 +303,15 @@ To create a warmer atmosphere sometimes i put hot air in the bathroom with my ha
 
 The first test didn't work, i reapet the process disinfected everything with alchool.
 
-But even the second test didn't work this time nothing happend.
+But even the second test didn't work this time nothing happend. 
 
-I attended a lesson to the biological laboratory at the Waag makerspace where was possible for me to understand ................
+I attended a lesson to the biology lab at the Waag makerspace where was possible for me to understand why my experiments had failed. First, as I had already guessed, it was necessary to work in an environment as sterile as possible but I had not even considered the surrounding air. Second, the temperature needed to grow the mycelium. I do not have an incubator available that favors the growth of the bio material. that's why with the second test nothing happend.
+
+What is needed to inoculate the mycelium in a sterile environment, and what to promote growht.
+
+A camping gas stove with which it is possible to create a sterile air bubble. To follow the steps well I recommend reading the documentation of ... intern at the waag laboratory.
+
+
 
 -----> VIDEO
 
